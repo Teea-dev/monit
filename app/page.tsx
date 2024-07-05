@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <div className={styles.logo}>
-        <Image src="/logo.png" alt="MONIT Logo" width={110} height={110} />
+        {/* <Image src="/logo.png" alt="MONIT Logo" width={110} height={110} /> */}
       </div>
 
       <main className={styles.main}>
